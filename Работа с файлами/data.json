@@ -1,0 +1,19 @@
+{
+   "response": {
+      "count": 5961880,
+      "items": [
+         {
+            "first_name": "John",
+            "last_name": "Doe",
+            "likes": 20,
+            "date": "2024-07-01 07:25:59"
+         },
+         {
+            "first_name": "Иван",
+            "last_name": "Иванов",
+            "likes": 62,
+            "date": "2024-07-01 07:25:59"
+         }
+      ]
+   }
+}
